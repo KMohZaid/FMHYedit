@@ -1,4 +1,6 @@
 ---
+title: Posts
+description: Everything from Monthly Updates to fmhy updates. (We also have a RSS feed.)
 sidebar: false
 editLink: false
 outline: false

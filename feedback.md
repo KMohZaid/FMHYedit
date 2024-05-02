@@ -1,5 +1,6 @@
 ---
 name: Feedback
+title: Feedback
 description: Anonymous comments, taken from reddit, discord, twitter, and our feedback system.
 next: false
 prev: false
